@@ -33,3 +33,18 @@ WHEN I review the layout of the entire webpage
 THEN I will test the functionality of the webpage
 WHEN I view the webpage thoroughly and check if the webpage meets all requirments and all instructions are followed 
 THEN when the completed webpage has complete functionality, quality appearance and displays the proper Weather Dashboard
+
+## 💡 Mock-Up
+The following image shows the web application's appearance and functionality: 
+
+Creating a Weather Dashboard!
+
+![weatherdashboardinitial](https://github.com/mayamccann/Weather-Dashboard/assets/112992245/ccbf7d18-0506-4847-ac8c-94b396fa4c4c)
+
+## 💡Grading Requirements Brief Summary
+
+* Technical Acceptance Criteria : 40%
+* Deployment : 32%
+* Application Quality : 15%
+* Repository Quality : 13%
+* Review : Submit URLs : Deployed and GitHub Repository
