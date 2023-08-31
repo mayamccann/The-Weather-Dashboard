@@ -11,3 +11,25 @@ For this assignment, the goal is to create a Weather Dashboard that focuses on S
 * JavaScript, HTML and CSS skills will be showcased when users view this webpage that focuses on functionality of the application.
 
 * The webpage will offer users a chance for users to obtain weather information based on their desired location. The user will research the weather of their desired city and recieve the current and future conditions that is presented with the city name, date, icon representation of weather conditions, temperature, humidity, and the wind speed.
+## 💡 User Story
+AS A Bootcamp student with knowledge with JavaScript, HTML and CSS
+I WANT to build a webpage that showcases my Weather Dashboard
+SO THAT I can share a webpage that offers Users exposure to learning and reviewing the knowledge I have obtained within the computer science field.
+I WANT to focus on catering to all in the professional and education world to benefit those by learning additional knowledge through completion of the Weather Dashboard.
+
+## 💡 Acceptance Criteria
+GIVEN I must build an interactive webpage
+WHEN I identify the importance of building a functional Weather Dashboard
+THEN I will begin with creating the code for the HTML file
+THEN I will write a code for the CSS file
+WHEN I will complete the code for the JavaScript file
+THEN I will start building the webpage for the received weather information
+WHEN I add variables and functions and if statements to the JS file
+THEN I will test the functionality of the Weather Dashboard
+on the webpage and use the console of the webpage to identify the arrays and other functional aspects of my JavaScript code
+THEN I will confirm the usefulness of the Weather Dashboard
+by completing a trial of testing out the webpage functionality
+WHEN I review the layout of the entire webpage 
+THEN I will test the functionality of the webpage
+WHEN I view the webpage thoroughly and check if the webpage meets all requirments and all instructions are followed 
+THEN when the completed webpage has complete functionality, quality appearance and displays the proper Weather Dashboard
