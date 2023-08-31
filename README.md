@@ -65,3 +65,16 @@ Once the assignment is completed, brainstorm other ways to enhance this Weather 
 * Are there other APIs that can be used for this Weather Dashboard?
 
 * Are there any additional features that can be added to this Weather Dashboard and can it offer more weather info cards?
+
+## 💡Credits
+
+Code Source : applied throughout the entire process of building to our starter code for this interactive web application! Credits are devoted to the UConn Coding Boot Camp Support Staff (Instructional Staff, TA, Tutors) and the program's activities and challenges materials and BootCamp Spot/Canvas and additional resources given throughout the course and outside research utilizing the Google Chrome browser of information relating to examples of HTML elements, CSS selectors and properties, but most importantly, JavaScript coding skills/methods. Further information utiliized when building from this functional code received from BootCamp Spot/Canvas. 
+
+## 💡Review
+
+Deployed URL : 
+
+GitHub URL : https://github.com/mayamccann/The-Weather-Dashboard
+
+
+🏆 Module 6 Challenge from the UConn Coding Bootcamp Cohort May 2023 🏆
